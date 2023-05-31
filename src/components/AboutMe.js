@@ -14,7 +14,7 @@ const AboutMe = () => {
                 <p>I have done volunteering and mentoring in the past.</p>
                 
                 <h3> Timeline </h3>
-                <p> 2018-2021: I studied Psychology at Queen Mary University of London and graduated with a First Class Honours.</p>
+                <p> Sept 2018 - June 2021: I studied Psychology at Queen Mary University of London and graduated with a First Class Honours.</p>
                 
                 <p>Nov 2021: Started working as a Medical Receptionist at an Orthopaedics and Sports Medicine Clinic.
                     I originally wanted to become a Sport Psychologist so before I underwent my MSc I wanted to work, save
@@ -36,7 +36,7 @@ const AboutMe = () => {
                         HTML, CSS, JavaScript, React, as well as, Jest, JUnit, unit testing, object-oriented programming (OOP), test-driven development (TDD),
                         and Git.</p>
 
-                <p>April 2023: Successfully completed and graduated from the bootcamp. Now open to work opportunities.</p>
+                <p>April 2023 - Present: Successfully completed and graduated from the bootcamp. Now open to work opportunities.</p>
             </div>
         </div>
     )
