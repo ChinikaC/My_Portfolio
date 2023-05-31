@@ -20,7 +20,7 @@ const AboutMe = () => {
                     I originally wanted to become a Sport Psychologist so before I underwent my MSc I wanted to work, save
                     and gain work experience.</p>
 
-                <p>Dec 2021: Began volunteering at a local athletics club, assisting the coaches and working with athletes
+                <p>Dec 2021 - June 2022: Began volunteering at a local athletics club, assisting the coaches and working with athletes
                         aged 9 to 14 years old.</p>
 
                 <p>May 2022: Started broadening my career options and formed an interest and curiosity for technology, in particular,
