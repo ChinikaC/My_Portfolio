@@ -9,12 +9,12 @@ const AboutMe = () => {
             </div>
             <div>
                 <h2>About Me:</h2>
-                <p> I live in Buckinghamshire, however, I am more than happy to commute for work. </p>
+                <p>I live in Buckinghamshire, however, I am more than happy to commute for work. </p>
                 <p>I have worked in several customer facing roles in healthcare, entertainment and hospitality.</p>
                 <p>I have done volunteering and mentoring in the past.</p>
                 
-                <h3> Timeline </h3>
-                <p> Sept 2018 - June 2021: I studied Psychology at Queen Mary University of London and graduated with a First Class Honours.</p>
+                <h3>Timeline:</h3>
+                <p>Sept 2018 - June 2021: I studied Psychology at Queen Mary University of London and graduated with a First Class Honours.</p>
                 
                 <p>Nov 2021: Started working as a Medical Receptionist at an Orthopaedics and Sports Medicine Clinic.
                     I originally wanted to become a Sport Psychologist so before I underwent my MSc I wanted to work, save
@@ -37,6 +37,12 @@ const AboutMe = () => {
                         and Git.</p>
 
                 <p>April 2023 - Present: Successfully completed and graduated from the bootcamp. Now open to work opportunities.</p>
+                <h3>My Achievements:</h3>
+                <p>On the bootcamp I won two awards:</p>
+                <p> - The Community in Action Award: “This award recognises a stand-out student who has embodied the values of inclusivity 
+                    and open culture that is at the heart of Bright Network’s Technology Academy”. </p>
+                <p> - Class Ambassador Award: "The trainee who has courageously attempted to answer any and all questions asked by the trainers 
+                    and lives to provide feedback and submissions in a timely manner".</p>
             </div>
         </div>
     )
