@@ -37,11 +37,12 @@ const AboutMe = () => {
                         and Git.</p>
 
                 <p>April 2023 - Present: Successfully completed and graduated from the bootcamp. Now open to work opportunities.</p>
+
                 <h3>My Achievements:</h3>
                 <p>On the bootcamp I won two awards:</p>
-                <p> - The Community in Action Award: “This award recognises a stand-out student who has embodied the values of inclusivity 
+                <p>- Community in Action Award: “This award recognises a stand-out student who has embodied the values of inclusivity 
                     and open culture that is at the heart of Bright Network’s Technology Academy”. </p>
-                <p> - Class Ambassador Award: "The trainee who has courageously attempted to answer any and all questions asked by the trainers 
+                <p>- Class Ambassador Award: "The trainee who has courageously attempted to answer any and all questions asked by the trainers 
                     and lives to provide feedback and submissions in a timely manner".</p>
             </div>
         </div>
