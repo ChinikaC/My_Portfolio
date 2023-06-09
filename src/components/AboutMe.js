@@ -10,7 +10,7 @@ const AboutMe = () => {
             <div>
                 <h2>About Me:</h2>
                 <p>I am a Graduate/Junior Software Engineer looking for her first role in Software Engineering.</p>
-                <p>I live in Buckinghamshire, however, I am more than happy to commute for work. </p>
+                <p>I live in Buckinghamshire and I am more than happy to commute for work. </p>
                 <p>I have worked in several customer facing roles in healthcare, entertainment and hospitality.</p>
                 <p>I have done volunteering and mentoring in the past.</p>
                 
