@@ -3,6 +3,7 @@ import Home from "../pages/Home";
 import MyProjects from "../components/MyProjects";
 import Contact from "../components/Contact";
 import AboutMe from "../components/AboutMe";
+import TechnologyStack from "../components/TechnologyStack";
 
 
 

@@ -1,3 +1,5 @@
+import { AiFillHtml5 } from "react-icons/ai";
+
 const AboutMe = () => {
     return (
         <div className="about">
@@ -45,8 +47,11 @@ const AboutMe = () => {
                     and open culture that is at the heart of Bright Network’s Technology Academy”. </p>
                 <p>- Class Ambassador Award: "The trainee who has courageously attempted to answer any and all questions asked by the trainers 
                     and lives to provide feedback and submissions in a timely manner".</p>
-            </div>
+            </div> 
+            <div> <p> <AiFillHtml5/> </p>; </div>
         </div>
+        
+
     )
 };
 
