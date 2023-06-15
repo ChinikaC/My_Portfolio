@@ -10,13 +10,13 @@ const TechnologyStack = () => {
     <h2>The tools, libraries and frameworks that I am familiar with:</h2>
     <ul>
     <li>
+    Java <FaJava/>
+    </li>
+    <li>
     HTML <ImHtmlFive2 />
     </li>
     <li>
     CSS <SiCss3/>
-    </li>
-    <li>
-    Java <FaJava/>
     </li>
     </ul>
    </div>
