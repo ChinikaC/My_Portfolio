@@ -4,6 +4,10 @@ import { FaJava } from "react-icons/fa";
 import { SiSpring } from "react-icons/si";
 import { BsFiletypeSql } from "react-icons/bs";
 import { SiPostgresql } from "react-icons/si";
+import { FaReact } from "react-icons/fa";
+import { SiJavascript } from "react-icons/si";
+import { SiJunit5 } from "react-icons/si";
+import { SiJest } from "react-icons/si";
 
 const TechnologyStack = () => {
   return ( 
@@ -29,6 +33,18 @@ const TechnologyStack = () => {
     </li>
     <li>
     CSS <SiCss3/>
+    </li>
+    <li>
+    JavaScript <SiJavascript/>
+    </li>
+    <li>
+    React <FaReact/>
+    </li>
+    <li>
+      JUnit <SiJunit5/>
+    </li>
+    <li>
+      Jest <SiJest/>
     </li>
   
     </ul>
