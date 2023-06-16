@@ -26,9 +26,6 @@ const TechnologyStack = () => {
     Java <FaJava/>
     </li>
     <li>
-    Spring Boot <SiSpring/>
-    </li>
-    <li>
     SQL <BsFiletypeSql/>
     </li>
     <li>
@@ -42,6 +39,9 @@ const TechnologyStack = () => {
     </li>
     <li>
     JavaScript <SiJavascript/>
+    </li>
+    <li>
+    Spring Boot <SiSpring/>
     </li>
     <li>
     React <FaReact/>
