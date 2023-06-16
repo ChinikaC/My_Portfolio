@@ -14,6 +14,10 @@ import { TbApi } from "react-icons/tb";
 import { SiIntellijidea } from "react-icons/si";
 import { SiVisualstudiocode } from "react-icons/si";
 import { FaPython } from "react-icons/fa";
+import { SiPostman } from "react-icons/si";
+import { GiElephant } from "react-icons/gi";
+import { BsTerminalFill } from "react-icons/bs";
+import { BsKanban } from "react-icons/bs";
 
 const TechnologyStack = () => {
   return ( 
@@ -56,13 +60,25 @@ const TechnologyStack = () => {
     GitHub <AiFillGithub/>
     </li>
     <li>
+    Postman <SiPostman/>
+    </li>
+    <li>
+    Postico <GiElephant/>
+    </li>
+    <li>
     RESTful API <TbApi/>
+    </li>
+    <li>
+    Terminal <BsTerminalFill/>
     </li>
     <li>
     IntelliJ <SiIntellijidea/>
     </li>
     <li>
     Visual Studio Code <SiVisualstudiocode/>
+    </li>
+    <li>
+    Kanban Board <BsKanban/>
     </li>
     </ul>
 
