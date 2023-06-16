@@ -10,7 +10,7 @@ import { SiJunit5 } from "react-icons/si";
 import { SiJest } from "react-icons/si";
 import { BsGit } from "react-icons/bs";
 import { AiFillGithub } from "react-icons/ai";
-import { TbApi } from "react-icons/tb";
+import { LuCloudCog } from "react-icons/lu";
 import { SiIntellijidea } from "react-icons/si";
 import { SiVisualstudiocode } from "react-icons/si";
 import { FaPython } from "react-icons/fa";
@@ -66,7 +66,7 @@ const TechnologyStack = () => {
     Postico <GiElephant/>
     </li>
     <li>
-    RESTful API <TbApi/>
+    RESTful API <LuCloudCog/>
     </li>
     <li>
     Terminal <BsTerminalFill/>
