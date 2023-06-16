@@ -13,13 +13,14 @@ import { AiFillGithub } from "react-icons/ai";
 import { TbApi } from "react-icons/tb";
 import { SiIntellijidea } from "react-icons/si";
 import { SiVisualstudiocode } from "react-icons/si";
+import { FaPython } from "react-icons/fa";
 
 const TechnologyStack = () => {
   return ( 
   
     <div className="technologyStackLogos"> 
     <h1>My Technology Stack</h1>
-    <h2>The tools, libraries, frameworks and technologies that I am familiar with or worked with before:</h2>
+    <h2>The tools, libraries, frameworks and technologies that I am familiar with include:</h2>
     <ul>
     <li>
     Java <FaJava/>
@@ -49,9 +50,6 @@ const TechnologyStack = () => {
     JUnit <SiJunit5/>
     </li>
     <li>
-    Jest <SiJest/>
-    </li>
-    <li>
     Git <BsGit/>
     </li>
     <li>
@@ -66,9 +64,18 @@ const TechnologyStack = () => {
     <li>
     Visual Studio Code <SiVisualstudiocode/>
     </li>
-   
-  
     </ul>
+
+    <h3> And a little of: </h3>
+    <ul>
+    <li>
+    Python <FaPython/>
+    </li>
+    <li>
+    Jest <SiJest/>
+    </li>
+    </ul>
+
    </div>
   )
 };
