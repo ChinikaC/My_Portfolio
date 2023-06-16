@@ -9,13 +9,15 @@ const AboutMe = () => {
             </div>
             <div>
                 <h2>About Me:</h2>
-                <p>I am a Graduate/Junior Software Engineer looking for her first role in Software Engineering.</p>
+                <p>I have a Psychology BSc degree.</p>
+                <p>I recently completed a Full Stack Software Engineering Bootcamp. I am now 
+                looking for my first role as a Graduate/Junior Software Engineer.</p>
                 <p>I live in Buckinghamshire and I am more than happy to commute for work. </p>
                 <p>I have worked in several customer facing roles in healthcare, entertainment and hospitality.</p>
                 <p>I have done volunteering and mentoring in the past.</p>
                 
                 <h3>Timeline:</h3>
-                <p>Sept 2018 - June 2021: I studied Psychology at Queen Mary University of London and graduated with a First Class Honours.</p>
+                <p>Sept 2018 - June 2021: I studied Psychology BSc at Queen Mary University of London and graduated with a First Class Honours.</p>
                 
                 <p>Nov 2021: Started working as a Medical Receptionist at an Orthopaedics and Sports Medicine Clinic.
                     I originally wanted to become a Sport Psychologist so before I underwent my MSc I wanted to work, save
