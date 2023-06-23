@@ -1,5 +1,5 @@
 import { BsLinkedin } from 'react-icons/bs';
-import { MdEmail } from 'react-icons/md';
+import { MdOutlineMarkEmailUnread } from 'react-icons/md';
 
 const Contact = () => {
 
@@ -14,7 +14,7 @@ const Contact = () => {
           LinkedIn <BsLinkedin/>
         </li>
         <li>
-            Email <MdEmail/>
+            Email <MdOutlineMarkEmailUnread/>
         </li>
         </ul>
 
