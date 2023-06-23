@@ -1,4 +1,5 @@
 import { BsLinkedin } from 'react-icons/bs';
+import { MdEmail } from 'react-icons/md';
 
 const Contact = () => {
 
@@ -11,6 +12,9 @@ const Contact = () => {
             <ul>
         <li>
           LinkedIn <BsLinkedin/>
+        </li>
+        <li>
+            Email <MdEmail/>
         </li>
         </ul>
 
