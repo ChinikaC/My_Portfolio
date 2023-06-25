@@ -17,6 +17,7 @@ const Contact = () => {
             Email <MdOutlineMarkEmailUnread/>
         </li>
         </ul>
+        <h2> View the code for my projects on my GitHub:</h2>
 
             </div>
         </div>
