@@ -1,5 +1,6 @@
 import { BsLinkedin } from 'react-icons/bs';
 import { MdOutlineMarkEmailUnread } from 'react-icons/md';
+import { BsGithub } from 'react-icons/bs';
 
 const Contact = () => {
 
@@ -17,7 +18,7 @@ const Contact = () => {
             Email <MdOutlineMarkEmailUnread/>
         </li>
         </ul>
-        <h2> View the code for my projects on my GitHub:</h2>
+        <p> View the code for my projects on my GitHub <BsGithub/></p>
 
             </div>
         </div>
